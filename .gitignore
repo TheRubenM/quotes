@@ -1,2 +1,4 @@
 /.idea/vcs.xml
 /.eslintcache
+/.idea/prettier.xml
+/node_modules/.cache/babel-loader/
