@@ -13,7 +13,7 @@ const MainNavigation = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/quotes/add" activeClassName={classes.active}>
+            <NavLink to="/addQuote" activeClassName={classes.active}>
               Add Quote
             </NavLink>
           </li>
